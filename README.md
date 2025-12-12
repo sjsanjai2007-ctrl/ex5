@@ -156,6 +156,7 @@ input[type="submit"]:hover {
 
 ## HOMEPAGE:
 
-![alt text](<Screenshot 2025-12-12 124732.png>)
+![alt text](<Screenshot 2025-12-12 131200.png>)
+
 ## RESULT:
 The program for performing server side processing is completed successfully.
