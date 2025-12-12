@@ -155,12 +155,11 @@ input[type="submit"]:hover {
 
 ## SERVER SIDE PROCESSING:
 
-![alt text](<Screenshot 2025-12-12 125013.png>)
+<img width="1228" height="151" alt="Screenshot 2025-12-12 150244" src="https://github.com/user-attachments/assets/3379a4d2-2f01-4ea4-81a4-e01eba5930e7" />
 
 ## HOMEPAGE:
 
-<img width="1919" height="1079" alt="Screenshot 2025-12-12 143832" src="https://github.com/user-attachments/assets/2be36ab9-50a5-4439-822b-16ff36484ed1" />
-
+<img width="1919" height="1079" alt="Screenshot 2025-12-12 150135" src="https://github.com/user-attachments/assets/8da78ecf-b416-49b3-a1be-a0a8e979608d" />
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
