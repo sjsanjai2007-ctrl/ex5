@@ -40,8 +40,6 @@ Publish the website in the given URL.
 <html>
 <head>
 <style>
-
-/* ==== PAGE BACKGROUND ==== */
 body {
     margin: 0;
     padding: 0;
@@ -52,8 +50,6 @@ body {
     justify-content: center;
     align-items: center;
 }
-
-/* ==== OUTER CARD BOX ==== */
 .box {
     width: 380px;
     padding: 20px;
@@ -62,16 +58,12 @@ body {
     backdrop-filter: blur(10px);
     box-shadow: 0 4px 25px rgba(0, 0, 0, 0.3);
 }
-
-/* ==== HEADER ==== */
 h1 {
     color: #fff;
     text-align: center;
     padding-bottom: 10px;
     font-size: 28px;
 }
-
-/* ==== FORM ELEMENT WRAPPER ==== */
 .formelt {
     color: #fff;
     font-size: 20px;
@@ -79,8 +71,6 @@ h1 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-/* ==== INPUT BOX STYLE ==== */
 input[type="text"] {
     width: 70%;
     padding: 8px;
@@ -91,8 +81,6 @@ input[type="text"] {
     font-size: 18px;
     text-align: center;
 }
-
-/* ==== GRADIENT BUTTON ==== */
 input[type="submit"] {
     background: linear-gradient(45deg, #00ff95, #00d4ff);
     padding: 10px 20px;
@@ -104,22 +92,17 @@ input[type="submit"] {
     font-size: 20px;
     transition: 0.3s;
 }
-
 input[type="submit"]:hover {
     transform: scale(1.05);
     box-shadow: 0px 0px 12px #00ffd5;
 }
-
 </style>
 </head>
-
 <body>
 <div class="box">
 <h1>Area of Rectangle</h1>
-
 <form method="POST">
 {% csrf_token %}
-
 <div class="formelt">
     Length :
     <br>
